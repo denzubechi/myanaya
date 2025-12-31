@@ -163,13 +163,13 @@ export default function Home() {
             <p className="text-base sm:text-lg text-rose-brown/70 font-light leading-relaxed mb-4 sm:mb-6">
               I remember that day so clearly. You came to see my sister,
               stepping into our home like spring itself had arrived. I was
-              asleep when you got there—completely unaware of how that moment
+              asleep when you got therecompletely unaware of how that moment
               would change everything.
             </p>
             <p className="text-base sm:text-lg text-rose-brown/70 font-light leading-relaxed">
               But the moment I woke and met you, something shifted. We clicked
               instantly, effortlessly. It was like meeting someone you'd always
-              known but never found. That same day, I knew—you were different.
+              known but never found. That same day, I knew you were different.
               You were the one.
             </p>
           </div>
@@ -192,7 +192,7 @@ export default function Home() {
               What struck me most was how natural it all felt. There was no
               awkwardness, no second-guessing. With you, everything flowed like
               it was meant to be. Your laugh, your presence, the way you saw the
-              world—it all resonated with something deep within me.
+              world, it all resonated with something deep within me.
             </p>
             <p className="text-base sm:text-lg text-rose-brown/70 font-light leading-relaxed">
               In that effortless connection, I found home. Not in a place, but
@@ -225,9 +225,9 @@ export default function Home() {
               something stronger than before.
             </p>
             <p className="text-base sm:text-lg text-rose-brown/70 font-light leading-relaxed">
-              You've taught me that real love isn't just the honeymoon
-              phase—it's the commitment to see someone through their darkness
-              and help them find their light again.
+              You've taught me that real love isn't just the honeymoon phase,
+              it's the commitment to see someone through their darkness and help
+              them find their light again.
             </p>
           </div>
 
